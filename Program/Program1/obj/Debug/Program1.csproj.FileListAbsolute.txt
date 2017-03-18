@@ -1,0 +1,6 @@
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\bin\Debug\Program1.exe.config
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\bin\Debug\Program1.exe
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\bin\Debug\Program1.pdb
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\obj\Debug\Program1.exe
+C:\Users\Lucia Bolanča\Desktop\Program\Program1\obj\Debug\Program1.pdb
